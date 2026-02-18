@@ -25,10 +25,6 @@
 - 👤 **[Face Detection App](https://github.com/TechyNilesh/face-detection-app)** - Real-time face detection with Streamlit & OpenCV
 - 🚶 **[Social Distancing Detector](https://github.com/TechyNilesh/Social-Distancing-Detector)** - GUI-based monitoring system using YOLO & OpenCV
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/techynilesh)
-
 ## What I'm Working On
 
 - **Research at Waikato** - Data stream mining, anomaly detection, and AutoML for streaming environments

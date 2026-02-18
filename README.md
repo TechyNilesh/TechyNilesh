@@ -11,7 +11,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-> Trying to make Machines and Humans agree on something. Building open-source AI tools that make deep learning accessible to everyone.
+> Trying to make Machines and Humans agree on something. Building open-source AI tools that make machine learning accessible to everyone.
 
 ## Featured Projects
 

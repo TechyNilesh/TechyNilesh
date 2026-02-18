@@ -1,6 +1,5 @@
 # Hi, I'm Nilesh 👋
 
-📍 **Auckland, New Zealand** | 🧠 **ML Researcher & AI Engineer** | 🎓 **University of Waikato**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -37,12 +36,6 @@
 - **Computer Vision & NLP** - Bridging the gap between research papers and production-ready tools
 - **Writing** - Sharing insights on AI/ML at [nileshverma.com](https://nileshverma.com/)
 
-## Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=techynilesh&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techynilesh&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
 
 ## Connect
 

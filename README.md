@@ -16,8 +16,8 @@
 
 ## Open Source
 
-- 🤖 **[TuiML](https://tuiml.ai)** - Machine Learning for Humans and Agents — train models with a clean Python API, publish reusable algorithms and datasets, and expose workflows to AI agents through MCP
-- ⚡ **[ZeroLLM](https://github.com/TechyNilesh/ZeroLLM)** - One pip install, auto-detects hardware, downloads the right model — chat with any LLM in 3 lines of Python
+- 🤖 **[TuiML](https://tuiml.ai)** - Machine learning for humans and agents. Train models with a clean Python API, publish reusable algorithms and datasets, and expose workflows to AI agents through MCP
+- ⚡ **[ZeroLLM](https://github.com/TechyNilesh/ZeroLLM)** - One pip install, auto-detects your hardware, downloads the right model, and you're chatting with any LLM in 3 lines of Python
 - 🔍 **[DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch)** - AI-based image search engine with deep transfer learning using Vision Transformers (469+ stars)
 - 📝 **[DeepTextSearch](https://github.com/TechyNilesh/DeepTextSearch)** - Multilingual text search & recommendation engine with transformer embeddings (50+ languages)
 - 📏 **[SSEM](https://github.com/TechyNilesh/SSEM)** - Semantic similarity evaluation library for NLP text generation tasks
@@ -28,7 +28,7 @@
 - 📞 **[AkoDesk](https://akodesk.com)** - AI voice calling platform with intelligent voice assistants for business inbound & outbound workflows
 - 🔮 **[BhriguGPT](https://bhrigugpt.com)** - AI-powered Vedic astrology platform combining spiritual guidance with conversational AI
 - 📚 **[OmniScholar](https://omnischolar.io)** - AI research productivity platform for literature discovery, summarization, and research agents
-- 🧠 **[Weka.ai](https://weka.ai)** - Making machine learning and data science accessible to everyone — no complex setup, just powerful AI tools
+- 🧠 **[Weka.ai](https://weka.ai)** - Making machine learning and data science accessible to everyone. No complex setup, just powerful AI tools
 
 ## Research Contributions
 

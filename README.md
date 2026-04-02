@@ -20,10 +20,10 @@
 - 🧠 **[Engram](https://github.com/TechyNilesh/engram)** - AI-native memory layer for agents and applications
 - 💰 **[LLMPrice](https://github.com/TechyNilesh/LLMPrice)** - Fast, offline-first LLM pricing lookup for 2500+ models in Python & TypeScript. Auto-synced daily from LiteLLM
 - ⚡ **[ZeroLLM](https://github.com/TechyNilesh/ZeroLLM)** - One pip install, auto-detects your hardware, downloads the right model, and you're chatting with any LLM in 3 lines of Python
-- 🔍 **[DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch)** - AI-based image search engine with deep transfer learning using Vision Transformers (469+ stars)
-- 📝 **[DeepTextSearch](https://github.com/TechyNilesh/DeepTextSearch)** - Multilingual text search & recommendation engine with transformer embeddings (50+ languages)
-- 📏 **[SSEM](https://github.com/TechyNilesh/SSEM)** - Semantic similarity evaluation library for NLP text generation tasks
-- 🔊 **[Autowave](https://github.com/TechyNilesh/Autowave)** - Audio automatic classification library with plotting, augmentation, and data loading
+- 🔍 **[DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch)** - AI-powered image search with text-to-image, image-to-image, hybrid search, and LLM-powered captioning
+- 📝 **[DeepTextSearch](https://github.com/TechyNilesh/DeepTextSearch)** - Embed. Search. Rerank. The complete text search engine in a single library
+- 📏 **[SSEM](https://github.com/TechyNilesh/SSEM)** - Lightweight evaluation metrics for LLMs and AI agents. No platform. No API keys. Just scores
+- 🔊 **[Autowave](https://github.com/TechyNilesh/Autowave)** - The simplest way to classify audio in Python
 
 ## Products
 

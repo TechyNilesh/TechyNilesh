@@ -17,7 +17,7 @@
 ## Open Source
 
 - 🤖 **[TuiML](https://github.com/TechyNilesh/tuiml)** - Machine learning for humans and agents. Train models with a clean Python API, publish reusable algorithms and datasets, and expose workflows to AI agents through MCP
-- 🧠 **[Engram](https://github.com/TechyNilesh/engram)** - AI-native memory layer for agents and applications
+- 🧠 **[EngramX](https://github.com/TechyNilesh/EngramX)** - The open-source agent memory framework with pluggable storage, policies, and observability
 - 💰 **[LLMPrice](https://github.com/TechyNilesh/LLMPrice)** - Fast, offline-first LLM pricing lookup for 2500+ models in Python & TypeScript. Auto-synced daily from LiteLLM
 - ⚡ **[ZeroLLM](https://github.com/TechyNilesh/ZeroLLM)** - One pip install, auto-detects your hardware, downloads the right model, and you're chatting with any LLM in 3 lines of Python
 - 🔍 **[DeepImageSearch](https://github.com/TechyNilesh/DeepImageSearch)** - AI-powered image search with text-to-image, image-to-image, hybrid search, and LLM-powered captioning
